@@ -96,6 +96,10 @@ body{
     background: rgb(13, 19, 33);
     margin: 32px 0px 44px 0px;
 }
+.banner-all-info button a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
 /* banner part style end here */
 /* Web Development style section start here */
 .Web-Development{
@@ -186,6 +190,10 @@ background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 
     text-align: center;
     
 }
+.second-part-all-text button a{
+    text-decoration: none;
+    color: rgb(13, 19, 33);
+}
 .second-part-img{
     width: 273.17px;
     height: 239px;
@@ -255,6 +263,10 @@ background: linear-gradient(270.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0)
     letter-spacing: 0%;
     text-align: center;
 }
+.third-part-all-text button a{
+    text-decoration: none;
+    color: rgb(13, 19, 33);
+}
 .Web-Development-info-4th-parts{
     width: 946px;
     height: 336px;
@@ -303,6 +315,10 @@ background: linear-gradient(270.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0)
     letter-spacing: 0%;
     text-align: center;
 }
+.fourth-part-all-text button a{
+    text-decoration: none;
+    color: rgb(13, 19, 33);
+}
 .fourth-part-img{
     width: 240px;
     height: 240px;
@@ -311,7 +327,7 @@ background: linear-gradient(270.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0)
 .fourth-part-img img{
     width: 206.4px;
     height: 187.37px;
-    margin: 26.34px 16.8px 26.34px 16.8px;
+    margin: 26.34px 16.8px;
 }
 /* Web Development style section end here */
 /* My Inspiration style section start here */
@@ -319,6 +335,7 @@ background: linear-gradient(270.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0)
     width: 1140px;
     height: 775px;
     margin: 0 auto;
+    margin-bottom: 151px;
 }
 .my-inspiration-all-text{
     width: 852px;
@@ -364,3 +381,95 @@ background: linear-gradient(270.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0)
 background: url(Jhankar);
 }
 /* My Inspiration style section end here */
+/* my current page style section start here */
+.my-current-page{
+    width: 1440px;
+    height: 460px;
+    margin: 0 auto;
+}
+.current-target-text{
+    width: 852px;
+    height: 113px;
+    margin: 0 auto;
+}
+.current-target-text h4{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 24px;
+}
+.current-target-text p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.current-target-card{
+    width: 1140px;
+    height: 299px;
+    margin: 0 auto;
+    border-radius: 16px;
+    display: flex;
+    
+    
+}
+.cards{
+    width: 364px;
+    height: 299px;
+    background: rgba(255, 76, 30, 0.05);
+    border-radius: 16px;
+    margin-right: 24px;
+}
+.background-1{
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+}
+.background-2{
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+}
+.card{
+    width: 284px;
+    height: 219px;
+    margin: 40px;
+   
+}
+.card img{
+    width: 56px;
+    height: 56px;
+    margin-bottom: 20px;
+}
+.card h4{
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-bottom: 8px;
+}
+.card p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-bottom: 24px;
+}
+.card a{
+    text-decoration: none;
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+}
+/* my current page style section end here */
