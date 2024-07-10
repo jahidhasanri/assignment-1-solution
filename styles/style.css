@@ -384,8 +384,9 @@ background: url(Jhankar);
 /* my current page style section start here */
 .my-current-page{
     width: 1440px;
-    height: 460px;
+    height: 1437px;
     margin: 0 auto;
+  
 }
 .current-target-text{
     width: 852px;
@@ -415,7 +416,7 @@ background: url(Jhankar);
     margin: 0 auto;
     border-radius: 16px;
     display: flex;
-    
+    margin-bottom: 111px;
     
 }
 .cards{
@@ -472,4 +473,215 @@ background: url(Jhankar);
     text-align: left;
     text-decoration-line: underline;
 }
+.My-Next-Target-page{
+    width: 1140px;
+    height: 866px;
+    margin: 0 auto;
+}
+.next-target-texts{
+    width: 946px;
+    height: 113px;
+    margin: 0 auto;
+    margin-bottom:48px;
+}
+.next-target-texts h4{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 24px;
+}
+.next-target-texts p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: 0.7;
+
+}
+.my-next-target-all-details{
+    width:1140px;
+    height:705px;
+}
+.ReactJS-all-details{
+    width: 1140px;
+    height: 219px;
+    margin-bottom: 24px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    
+}
+.reactsjs-all-texts{
+    width: 1060px;
+    height: 139px;
+    margin: 40px;
+    display: flex;
+}
+.reactsjs-image{
+    width:94.78px;
+    height:108px;
+    margin: 15.5px 24px 15.5px 0px;
+}
+.reactsjs-image img{
+    width: 94.78px;
+    height:84.41px;
+    margin: 11.5px 0px 11.5px 0px;
+}
+.reactsjs-texts{
+    width: 941.22px;
+    height: 139px;
+}
+.reactsjs-texts h4{
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-bottom: 7px;
+}
+.reactsjs-texts p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.7;
+    margin-bottom: 21px;
+}
+.reactsjs-texts a{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+}
+.NodeJs-all-details{
+    width: 1140px;
+    height: 219px;
+    margin-bottom: 24px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    
+}
+.nodejs-all-texts{
+    width: 1060px;
+    height: 139px;
+    margin: 40px;
+    display: flex;
+    justify-content: center;
+    
+}
+.nodejs-image{
+    width:143.3px;
+    height:87.75px;
+    margin: 25.5px 24.14px 25.75px 0.7px;
+}
+.nodejs-image img{
+    width:100%;
+    height:100%;
+  
+}
+.nodejs-texts{
+    width: 941.22px;
+    height: 139px;
+}
+.nodejs-texts h4{
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-bottom: 7px;
+}
+.nodejs-texts p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.7;
+    margin-bottom: 20.5px;
+}
+.nodejs-texts a{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+}
+
+.MongoDB-all-details{
+    width: 1140px;
+    height: 219px;
+    margin-bottom: 24px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    
+}
+.MongoDB-all-texts{
+    width: 1060px;
+    height: 139px;
+    margin: 40px;
+    display: flex;
+}
+.mongodb-image{
+    width:108px;
+    height:108px;
+    margin: 15.5px 24px 15.5px 0px;
+}
+.mongodb-image img{
+    width:100%;
+    height:100%;
+}
+.mongodb-texts{
+    width: 941.22px;
+    height: 139px;
+}
+.mongodb-texts h4{
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-bottom: 7px;
+}
+.mongodb-texts p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.7;
+    margin-bottom: 20.5px;
+}
+.mongodb-texts a{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+}
+
 /* my current page style section end here */
